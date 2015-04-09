@@ -11,6 +11,7 @@ public class Listing {
     String description;
     Image MainImage;
 
+    //Return the title of the listing, ellipsizes past 50 characters
     public String toString() {
         if (title == null) return "No name item";
         if (title.length() < 50) {
