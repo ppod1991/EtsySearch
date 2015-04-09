@@ -3,7 +3,7 @@ Etsy Search UI
 
 
 This repo contains the code for Android application containing the sample Etsy Search UI project. 
-See a demo video (device rotation works, but recording of it is broken) of the project at https://youtu.be/DeRRpZgrwl.
+See a demo video (device rotation works, but recording of it is broken) of the project at https://youtu.be/DeRRpZgrwlM
 
 It supports the following features:
 1) Device rotation
