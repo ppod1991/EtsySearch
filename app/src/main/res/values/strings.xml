@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Etsy</string>
+    <string name="search_label">Etsy Search</string>
+    <string name="search_hint">Search things, shops, etc.</string>
+    <string name="action_settings">Settings</string>
+    <string name="crash_toast_text">Sorry, there has been an error!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

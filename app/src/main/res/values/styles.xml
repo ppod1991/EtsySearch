@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!--&lt;!&ndash; Set AppCompat’s actionBarStyle &ndash;&gt;-->
+        <!--<item name="actionBarStyle">@style/MyActionBarStyle</item>-->
+        <item name="actionBarStyle">@style/Widget.AppCompat.Toolbar</item>
+
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimary">@color/dark_red</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    <!-- The rest of your attributes -->
+    </style>
+
+    <!-- ToolBar -->
+    <style name="ToolBarStyle" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+
+    </style>
+
+</resources>
